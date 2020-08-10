@@ -8,7 +8,7 @@ export class Square {
     }
 
     diameter() {
-        return console.log("Diameter: " + (this.height*2)+(this.width*2));
+        return (this.height*2)+(this.width*2);
     }
 
     radius(){
