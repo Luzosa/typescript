@@ -1,0 +1,27 @@
+#wrapper {
+    width: 20vw;
+    height: 20vh;
+    background-color: salmon;
+}
+
+input {
+    width:5vw;
+    margin: 20px 0px 0px 0px ;
+}
+label {
+    margin: 0 0 0 10px;
+}
+
+button {
+    margin: 20px  0 0 130px;
+    clear: both;
+    display: block;
+}
+
+#results {
+    clear: both;
+    display: block;
+    width: fit-content;
+    height: fit-content;
+    margin: 20px 0 0 70px;
+}
